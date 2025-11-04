@@ -1,0 +1,10 @@
+[project]
+name = "eventiq"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[projects.scripts]
+eventiq = "eventiq:main"
